@@ -1,1 +1,0 @@
-# funny-jokes-generator-chrome-web-page-extension
